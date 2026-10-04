@@ -1,0 +1,6 @@
+Method,MAE,R²
+Non-AI Baseline,35276.16,-0.0025
+Checkpoint 1 Linear Regression,30869.82,0.0288
+Checkpoint 2 Linear Regression,25715.33,0.0809
+Decision Tree,21586.37,0.0796
+Random Forest,18989.26,0.1105
