@@ -2,6 +2,12 @@
 
 COMP 365 Individual Project
 
+## Live Web App
+
+https://used-vehicle-price-predictor.streamlit.app/
+
+The deployed application allows users to enter vehicle information and receive a predicted used-vehicle price from the trained Random Forest model.
+
 This project uses machine learning to estimate used-vehicle prices based on vehicle information such as brand, model, year, mileage, engine, transmission, and vehicle history.
 
 ## Checkpoint 1
