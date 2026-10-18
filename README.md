@@ -92,8 +92,8 @@ The best R² is 0.1105, so the selected model still leaves most price difference
 
 The app can only offer brands, models, years, and other categories that are already in `used_cars.csv`. Mileage is typed in. A category the model has never seen is ignored. `pandas` and `joblib` are not pinned, and no Python version is required in the repository.
 
-Training and evaluation were repeated in a separate copy, and the scores matched the table above. The original model and result files were not changed. A prediction was also submitted in that copy of the app. The public website still needs to be checked.
+Training and evaluation were repeated in a separate copy, and the scores matched the table above. The original model and result files were not changed. A prediction was also submitted in that copy of the app. The public Streamlit app was tested successfully and returned a price prediction.
 
 ## AI assistance
 
-ChatGPT helped with planning, writing, and evaluation figures. Cursor helped with code, UI integration, and bug fixes. Google Stitch helped generate the interface design.
+ChatGPT helped with some parts of planning, writing, and evaluation figures. Cursor helped with code, UI integration, and bug fixes. Google Stitch helped generate the interface design.
